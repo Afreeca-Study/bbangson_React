@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&display=swap');
+.App {
+  text-align: center;
+}
+
+.Title {
+  color:slateblue;
+  font-size: 70px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  font-weight: 500;
+  font-family: 'Nanum Pen Script', cursive;
+  border-bottom: 2px solid palevioletred;
+}
+
+.Wrapper {
+  display: flex;
+}
+
+.Image-div, .Info-div {
+  width: 50%;
+}
+
+.Image {
+  width: auto;
+  height: auto;
+  max-width: 800px;
+  max-height: 500px;
+  animation: fadein 2s;
+}
+@keyframes fadein {
+  from {
+      opacity: 0;
+  }
+
+  to {
+      opacity: 1;
+  }
+}
+
+.Info-div {
+  place-self: center;
+}
+
+.Introduce {
+  font-size: 30px;
+  font-family: 'Nanum Pen Script', cursive;
+  white-space: pre-line;
+}
