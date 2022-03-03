@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/bbangson_React/static/css/main.65ab7815.css",
+    "main.css": "/bbangson_React/static/css/main.5a541bdc.css",
     "main.js": "/bbangson_React/static/js/main.212d95d7.js",
     "static/media/nephew8.jpg": "/bbangson_React/static/media/nephew8.2ce4f785b396068a95ed.jpg",
     "static/media/nephew5.jpg": "/bbangson_React/static/media/nephew5.df2f8303c1b0c7eeafa8.jpg",
@@ -11,11 +11,11 @@
     "static/media/nephew7.jpg": "/bbangson_React/static/media/nephew7.25216ce2356856d7a022.jpg",
     "static/media/nephew2.jpg": "/bbangson_React/static/media/nephew2.3efb00484765bf9ad121.jpg",
     "index.html": "/bbangson_React/index.html",
-    "main.65ab7815.css.map": "/bbangson_React/static/css/main.65ab7815.css.map",
+    "main.5a541bdc.css.map": "/bbangson_React/static/css/main.5a541bdc.css.map",
     "main.212d95d7.js.map": "/bbangson_React/static/js/main.212d95d7.js.map"
   },
   "entrypoints": [
-    "static/css/main.65ab7815.css",
+    "static/css/main.5a541bdc.css",
     "static/js/main.212d95d7.js"
   ]
 }
