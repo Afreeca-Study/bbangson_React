@@ -50,7 +50,7 @@ export default function App() {
         )}</div>
       </div>
       <div className='Btn-div'>
-        <button onClick={handleClick}>클릭해보세요!</button>
+        <button className="button" onClick={handleClick}>클릭해보세요!</button>
       </div>
     </div>
   );
