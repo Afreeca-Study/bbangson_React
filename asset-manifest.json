@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/bbangson_React/static/css/main.72dcd3d0.css",
+    "main.js": "/bbangson_React/static/js/main.f3ef7a07.js",
+    "static/media/nephew8.jpg": "/bbangson_React/static/media/nephew8.2ce4f785b396068a95ed.jpg",
+    "static/media/nephew5.jpg": "/bbangson_React/static/media/nephew5.df2f8303c1b0c7eeafa8.jpg",
+    "static/media/nephew6.jpg": "/bbangson_React/static/media/nephew6.578ea3dbb985d3c365e4.jpg",
+    "static/media/nephew1.jpg": "/bbangson_React/static/media/nephew1.6487eb82fcbb25510459.jpg",
+    "static/media/nephew4.jpg": "/bbangson_React/static/media/nephew4.72a7ba8931ebdbd9d851.jpg",
+    "static/media/nephew3.jpg": "/bbangson_React/static/media/nephew3.c06b35f6054eaaf281fc.jpg",
+    "static/media/nephew7.jpg": "/bbangson_React/static/media/nephew7.25216ce2356856d7a022.jpg",
+    "static/media/nephew2.jpg": "/bbangson_React/static/media/nephew2.3efb00484765bf9ad121.jpg",
+    "index.html": "/bbangson_React/index.html",
+    "main.72dcd3d0.css.map": "/bbangson_React/static/css/main.72dcd3d0.css.map",
+    "main.f3ef7a07.js.map": "/bbangson_React/static/js/main.f3ef7a07.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72dcd3d0.css",
+    "static/js/main.f3ef7a07.js"
+  ]
+}
